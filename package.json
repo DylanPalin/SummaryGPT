@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.14.1",
+    "dotenv": "^16.4.5"
+  },
+  "name": "summarygpt",
+  "version": "1.0.0",
+  "description": "Auto summarizes medical journals via Google Gemini API",
+  "main": "SummaryGPT.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Palin",
+  "license": "ISC"
+}
